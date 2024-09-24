@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hgaOeBECm1/v48f+0xwfhdoWAMhP5Bda/6OroABQ8LScr3gJRWDoCn0dX0pM553VaEqn9tjQ/cL45z6G7FP7mA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\usuario\\source\\repos\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usuario\\.nuget\\packages\\realtaiizor\\3.8.0.7\\realtaiizor.3.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
